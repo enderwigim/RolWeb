@@ -1,3 +1,4 @@
+/* Navbar Styles */
 .diceimg {
     max-width: 8%;
     margin-left: 5%;
@@ -31,3 +32,63 @@
     background-color: #ba9b7b;
 }
 
+/* What's game by post */
+.gameLogo {
+    position: relative;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+/* Each Logo Class */
+.dnd {
+    left: 34px;
+    width: 309px;
+}
+
+.age {
+    top: 10px;
+    left: 30px;
+    width:89px;
+}
+.fate {
+    top: 25px;
+    left: 35px;
+    width:160px;
+}
+.numenera {
+    left: 30px;
+    width:280px;
+}
+.pathfinder {
+    width: 300px;
+    top: 50px;
+    left: 50px;
+}
+
+
+.starwars {
+    left: 30px;
+    width: 200px;
+}
+.thestrange {
+    top:30px;
+    left: 60px;
+    width: 167px;
+}
+
+.post-images {
+    margin-left: 10%;
+}
+@media screen and (max-width: 1420px) {
+    div.post-images {
+        display: none;
+    }
+}
+
+.what-is {
+    padding-right: 10%;
+    padding-top: 5%;
+}
+.what-is-text {
+    font-size: 120%;
+}
