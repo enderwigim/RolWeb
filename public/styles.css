@@ -1,0 +1,33 @@
+.diceimg {
+    max-width: 8%;
+    margin-left: 5%;
+}
+
+.left-nav {
+    margin-right: 5%;
+}
+
+.last-games {
+    background-color: #ba9b7b
+}
+
+.nav-item {
+    font-size: larger;
+    color: #282a2d;
+}
+.nav-link:hover {
+    color:#ba9b7b;
+}
+.register {
+    border-left: 2px solid #ba9b7b;
+}
+.login:hover {
+    color: #282a2d;
+}
+.login {
+    color:#ba9b7b;
+}
+.sign-up {
+    background-color: #ba9b7b;
+}
+
